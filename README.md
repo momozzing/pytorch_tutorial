@@ -1,3 +1,7 @@
+https://github.com/bentrevett/pytorch-sentiment-analysis.git
+보고 공부하고 있습니다. 감사합니다 
+
+
 # PyTorch Sentiment Analysis
 
 ## Note: This repo only works with torchtext 0.9 or above which requires PyTorch 1.8 or above. If you are using torchtext 0.8 then please use [this](https://github.com/bentrevett/pytorch-sentiment-analysis/tree/torchtext08) branch
